@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Q9</title>
+</head>
+<body>
+    <a href="Q10dummy.html" target="_blank">Deliquescent</a><br>
+    <a href="Q10dummy.html" target="_blank">Flabbergast</a><br>
+    <a href="Q10dummy.html" target="_blank">Flimflam</a><br>
+    <a href="Q10dummy.html" target="_blank">Floccinaucinihilipilification</a><br>
+    <a href="Q10dummy.html" target="_blank">Limerence</a><br>
+    <a href="Q10dummy.html" target="_blank">Loquacious</a><br>
+    <a href="Q10dummy.html" target="_blank">Obdurate</a><br>
+    <a href="Q10dummy.html" target="_blank">Omnishambles</a><br>
+    <a href="Q10dummy.html" target="_blank">Persiflage</a><br>
+    <a href="Q10dummy.html" target="_blank">Perspicacious</a><br>
+    <a href="Q10dummy.html" target="_blank">Quincunx</a><br>
+    <a href="Q10dummy.html" target="_blank">Tintinnabulation</a><br>
+    <a href="Q10dummy.html" target="_blank">Velleity</a><br>
+    <a href="Q10dummy.html" target="_blank">Acnestis</a><br>
+    <a href="Q10dummy.html" target="_blank">Meldrop</a><br>
+    <a href="Q10dummy.html" target="_blank">Nauseant</a><br>
+    <a href="Q10dummy.html" target="_blank">Obelus</a><br>
+    <a href="Q10dummy.html" target="_blank">Agelast</a><br>
+    <a href="Q10dummy.html" target="_blank">Amatorculist</a><br>
+    <a href="Q10dummy.html" target="_blank">Pot-valor</a><br>
+</body>
+</html>

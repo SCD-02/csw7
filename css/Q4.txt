@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Q4</title>
+    <style>
+        img{
+            text-align: center;
+            width: 200px;
+            height: 200px;
+        }
+        .mydiv{
+            text-align: center;
+            font-size: 50px;
+        }
+        .mydiv:hover{
+            color:rgb(108, 244, 253) ;
+        }
+    </style>
+</head>
+<body>
+    <div class="mydiv">My special div</div>
+    <img class="mydiv" src="https://img.freepik.com/free-photo/wide-angle-shot-single-tree-growing-clouded-sky-during-sunset-surrounded-by-grass_181624-22807.jpg?w=2000" alt="">
+</body>
+</html>
